@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maritime Predictive Maintenance (PdM) — ML Application
 
 A thesis-support project: an end-to-end machine learning pipeline that predicts
@@ -82,3 +83,7 @@ streamlit run src/app.py
   transparency.
 - Containerize `app.py` with Docker and expose `predict.py` as a REST endpoint
   (FastAPI) for integration with a ship's onboard monitoring system.
+=======
+# Maritime-Predictive-Maintenance-App
+My thesis for the University of Pireaus, school of Digital Systems, which consists of a machine learning application for maritime predictive maintenance.
+>>>>>>> 377d5f33d5f6c550e69c5970cd68299b7e9f78b0
